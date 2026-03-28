@@ -1,0 +1,52 @@
+[
+    {
+        "domain": ".edpuzzle.com",
+        "expirationDate": 1775070112,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1983a7a4-d1e3-4136-b817-a0c13e2af866:EwoAjW6FhFYtAAAA:Em3yPHnnupNj5VsVJR2J4byvZJcl7hVnJq1GWjclmIBK0Hyxzh0tj4VmTk0iIcOhRnoVgH4VFyEjgQ5woVmbd5r/+ia9p/HEwPucGPhnO4VG3yPBgdZBS4vMneozaAv2EaDEjw9RgUoLlkv+URMo+D4NCSF8nV0pD4xmziZzWbYKJyT6jSpxURiNXmeGbmC8JOXUSg=="
+    },
+    {
+        "domain": "edpuzzle.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "x-edpuzzle-lti-access-token",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvYXV0aCI6eyJjb25zdW1lcktleSI6IjElNTVHaFFHb3N4QVQmYzBadnpYIiwibm9uY2UiOiI2OWM4MjU5NTlhMGEwIiwic2lnbmF0dXJlTWV0aG9kIjoiSE1BQy1TSEExIiwic2lnbmF0dXJlIjoiL3c2MTlaUU9pNU5KZXovakxxNk41ckZuQ2tNPSIsInRpbWVzdGFtcCI6MTc3NDcyNDUwMSwidmVyc2lvbiI6IjEuMCJ9LCJyZXNvdXJjZVVyaSI6eyJwYXJhbXMiOnsiYXNzaWdubWVudElkIjoiNjljMWFlODFkOTkxM2U2NmVjYmI1NGQzIn19LCJsdGkiOnsidmVyc2lvbiI6IkxUSS0xcDAiLCJtZXNzYWdlVHlwZSI6ImJhc2ljLWx0aS1sYXVuY2gtcmVxdWVzdCIsIm9yaWdpbiI6InNjaG9vbG9neSIsIm9yaWdpblZlcnNpb24iOiIxLjAiLCJpbnN0YW5jZUlkIjoiNDI0MzkyODI1OjoyYWExZTE2Njk1NWQwZDNlMDgwZTA4MTg2NzAxNTJmYyIsImluc3RhbmNlTmFtZSI6IkxvcyBBbmdlbGVzIFVuaWZpZWQgU2Nob29sIERpc3RyaWN0IiwiaW5zdGFuY2VEZXNjcmlwdGlvbiI6bnVsbCwiaW5zdGFuY2VDb250YWN0RW1haWwiOm51bGwsImluc3RhbmNlVXJsIjpudWxsLCJpbnN0YW5jZURvbWFpbiI6IiJ9LCJ1c2VyIjp7ImlkIjoiNjY1NTgwNzc6OmVhOTVhNmIwODQ1YTQ0MjdhOGMwYWZiNGZjYTNhYjM5IiwiaW1hZ2UiOm51bGwsInJvbGUiOiJzdHVkZW50IiwiZmlyc3ROYW1lIjoiSlVTVElOIiwibGFzdE5hbWUiOiJNWUlOVCBXQU5HIiwibmFtZSI6IkpVU1RJTiBNWUlOVCBXQU5HIiwiZW1haWwiOiJqbXlpbnR3YTAwMDFAbXltYWlsLmxhdXNkLm5ldCJ9LCJjb3Vyc2UiOnsiaWQiOiI4MTcyODU2NTM2IiwibmFtZSI6IkhFQUxUSCBFRFVDQVRJT04gU0g6IFRFUk1BUy0gUEVSSU9ENiAtIFJNRTIzNCIsImxhYmVsIjoiQzgxNzI4NTY1MzYifSwiYXNzaWdubWVudCI6eyJpZCI6IjgzMjMxNTMzMzMiLCJ0aXRsZSI6IjEwIFJ1bGVzIEZvciBSZWFkaW5nIGEgRm9vZCBMYWJlbCIsImRlc2NyaXB0aW9uIjoiIiwicmV0dXJuVXJsIjoiIiwicmV0dXJuR3JhZGVVcmwiOiJodHRwczovL2xtcy5sYXVzZC5uZXQvZXh0ZXJuYWxfdG9vbC9vdXRjb21lX3NlcnZpY2UvYy8zODQyOCIsInJldHVybkdyYWRlSWQiOiIzNDM1MTE5NjU0Ojo2NjU1ODA3Nzo6NjA3NjcxOWZiMmFlMzgwNjI5ZTc3NzhiMmE4MTlhZTcifSwiaWF0IjoxNzc0NzI0NTAyLCJleHAiOjE3NzQ3MzUzMDJ9.SWwDKscW1Dj96rVUon_HvcbVLn1v6QfYlKUTGf9ghmA"
+    },
+    {
+        "domain": "edpuzzle.com",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "edpuzzleCSRF",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "fcv7VKJN4Mu9lxt-vzsqqcF-"
+    },
+    {
+        "domain": "edpuzzle.com",
+        "expirationDate": 1774725493,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "_dd_s",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "rum=0&expire=1774725488950&logs=0"
+    }
+]
